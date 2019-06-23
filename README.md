@@ -1,11 +1,14 @@
 # EventHall-Administration
- Administration of an event hall.  
+Administration of an event hall.  
 ## Functions
 ###  It manages:
       - Employee’s information
       - Future events (generate contracts automatically displayed in Word)
       - Registry of meals (with inventory and Excel visualization)
-### It has custom login.
+      - Custom login
 ## Extra Information
-- Designed and developed in Java as school project.
-- Extra information about the creation process and how to use it can be found in the "documentacion" folder.
+- Designed and developed in Java.
+- Presented as school project.
+- [Video that explains the whole program](Documentacion/Criterio D.mp4) 
+- Default user Test:test
+
